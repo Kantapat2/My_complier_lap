@@ -1,0 +1,11 @@
+-- How to initial env
+    python -m venv complier-env
+
+-- How to activate env
+    complier-env\Scripts\activate.bat
+
+-- How to deactivate env
+    deactivate
+
+-- Library For project
+    pip install -r requirements.txt
